@@ -18,7 +18,7 @@ html, body {
 .jumbotron {
   height: 800px;
   /*step #3 add image and size*/
-  background: url("iaidophotos/IMG_0523.jpg") no-repeat center center;
+  background: url("IMG_0523.jpg") no-repeat center center;
   -webkit-background-size: cover;/*step #3 add image and size*/
   -moz-background-size: cover;/*step #3 add image and size*/
   -o-background-size: cover;/*step #3 add image and size*/
