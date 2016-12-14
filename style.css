@@ -85,3 +85,13 @@ button a {
 .clearfix {
   clear: both;
 }
+
+.footer {
+  background-color: #333;
+  height: 100px;
+}
+
+.footer p {
+  color: #fff;
+  padding-top: 20px;
+}
